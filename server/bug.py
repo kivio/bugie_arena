@@ -1,0 +1,3 @@
+
+class Bug(object):
+    pass
